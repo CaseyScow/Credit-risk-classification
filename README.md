@@ -13,4 +13,4 @@ The points of the machine learning model to be examined are the accuracy, precis
 In summary the accuracy (99%), precision (100%/ 85%), and recall (99%, 91%) all performed well in general. When looking at these scores it is key to remember what they are rating as the score for a good rating may vary depending on what you are evaluating. In this case, where we are determining high risk loans or not, all these scores can be argued to be good scores. Something else to now is there was a 100% mark in the precision. To some surprise, this may be a bad sign for your model as it can mean it is overfitted, meaning it was overtrained on the data and isn't giving accurate predictions anymore. However, considering the other scores I don't feel being overfitted was the issue here and I believe the 100% is a positive sign for this model in this circumstances. Overall, I believe this is a good model and I would for certain recommend the bank to use it. 
 
 ***References*** 
-No references used outside of classroom activities. 
+No references used outside of classroom activities.  
